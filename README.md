@@ -1,14 +1,6 @@
 # HWYD.github.io
 电子书籍阅读器
 
-运行
-
-git clone ...
-
-npm install 或 yarn
-
-npm run serve 或 yarn serve
-
 
 说明
 
