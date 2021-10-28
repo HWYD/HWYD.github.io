@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{573:function(e,n,t){"use strict";t.r(n);var c={name:"ShopSelect"},l=t(8),component=Object(l.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,"4febbdc8",null);n.default=component.exports}}]);
